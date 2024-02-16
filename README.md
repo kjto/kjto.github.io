@@ -3,7 +3,7 @@ Assistant professor
 Department of ICT and Natural Sciences
 Faculty of Information Technology and Electrical Engineering
 
-- kjell.i.tomren@ntnu.no
+- kjell.i.tomren (at) ntnu.no
 - +4770161250
 - Ankeret, B319, Ålesund, Larsgårdsvegen 2
 
